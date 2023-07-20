@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nombre": "Café molido Peruano (454g)",
+        "precio": 50,
+        "categoria": "Empaquetados",
+        "imagen": "cafe_empaquetado.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Café molido Colombiano (454g)",
+        "precio": 60,
+        "categoria": "Empaquetados",
+        "imagen": "cafe_empaquetado2.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "Café Liofilizado Dulce de Leche (95g)",
+        "precio": 35,
+        "categoria": "Liofilizado",
+        "imagen": "cafe_liofilizado1.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Café Liofilizado VaniCanela (95g)",
+        "precio": 35,
+        "categoria": "Liofilizado",
+        "imagen": "cafe_liofilizado2.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Prensa francesa Roja (350ml)",
+        "precio": 90,
+        "categoria": "Cafeteras",
+        "imagen": "prensa_francesa_roja.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Cafetera Gota a Gota",
+        "precio": 75,
+        "categoria": "Cafeteras",
+        "imagen": "cafetera_gota.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Muffin de Chocolate (1 und)",
+        "precio": 10,
+        "categoria": "Postres",
+        "imagen": "muffin.webp"
+    },
+    {
+        "id": 8,
+        "nombre": "Muffin de Frambuesas (1 und)",
+        "precio": 10,
+        "categoria": "Postres",
+        "imagen": "muffin_berries.webp"
+    },
+    {
+        "id": 9,
+        "nombre": "Torta de chocolate (1 porción)",
+        "precio": 5,
+        "categoria": "Postres",
+        "imagen": "torta_chocolate.webp"
+    }
+]
